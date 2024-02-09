@@ -1,17 +1,19 @@
-# Redux E-Commerce Platform
-# Book Search Engine 📚
+# Redux E-Commerce Platform 🛍️🛒
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollo&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_Server-8B89CC?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-(this is for another activity replace/add these Apollo Client, Apollo Server (Express), Express, GraphQL, jsonwebtoken, jwt-decode, MongoDB, Mongoose, React, React-Redux, Redux, Redux Toolkit, Stripe)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ## Description
 This application serves as an e-commerce platform built with Redux for state management. It allows users to browse through products, add items to their cart, and manage their shopping experience seamlessly.
+
 ## Table of Contents
 
 - [Description](#description)
@@ -41,25 +43,36 @@ These features utilize Redux for global state management, meeting the user story
 ## Installation
 
 To set up the Redux E-Commerce Platform on your local machine, follow these steps:
-1.  Clone the repository: `git clone https://github.com/bahossdev/MERN-Book-Search-Engine.git`
+1.  Clone the repository: `git clone https://github.com/bahossdev/Redux-E-Commerce-Platform.git`
 2.  Navigate to the project directory.
-3.  Install dependencies: `npm install`
-4.  Start the development server: `npm run develop`
+3.  Install dependencies: `npm install`.
+4.  Run seeds: `npm run seeds`.
+5.  Start the development server: `npm run develop`
 
 ## How to Use
 
-1.  Visit the deployed ... [here]().
-2.  
+1.  **Account Signup:** Users can create an account to access personalized features.
+2.  **Browse and View Products:** Explore products and categories effortlessly.
+3.  **Add/Remove Products to/from the Shopping Cart:** Manage your shopping cart with ease.
+4.  **Update Product Quantities in the Cart:** Adjust quantities directly from the cart interface.
+5.  **View Categories and Filter Products by Category:** Find products based on interests.
+6.  **Toggle Visibility of the Shopping Cart:** Easily manage your shopping cart visibility.
+7.  **Clear the Shopping Cart:** Remove all items from the cart at once.
+8.  **Continue Shopping or Proceed to Checkout:** Choose between further browsing or checkout.
+9.  **Responsive Design:** Optimized for seamless browsing on various devices.
 
 ## Technologies Used
 
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![jsonwebtoken](https://img.shields.io/badge/jsonwebtoken-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+- ![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollo&logoColor=white)
 - ![Apollo GraphQL](https://img.shields.io/badge/Apollo_Server-8B89CC?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 
 ## Credits
@@ -77,7 +90,7 @@ The application is deployed on Render. You can access it via this [link](https:/
 
 ## Repository
 
-- [Link to the Repo](https://github.com/bahossdev/MERN-Book-Search-Engine.git)
+- [Link to the Repo](https://github.com/bahossdev/Redux-E-Commerce-Platform.git)
 
 ## Questions
 
