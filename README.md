@@ -99,4 +99,5 @@ The application is deployed on Render. You can access it via this [link](https:/
 If you have any questions or need further assistance, feel free to reach out to me by [email](mailto:bahoss.dev@gmail.com).
 
 ## Screenshot
+![screenshot1](https://github.com/bahossdev/Redux-E-Commerce-Platform/assets/148646212/51cdf1fd-03cc-416c-b6cb-83b12404cad9)
 
