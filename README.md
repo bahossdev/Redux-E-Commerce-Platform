@@ -51,6 +51,8 @@ To set up the Redux E-Commerce Platform on your local machine, follow these step
 
 ## How to Use
 
+Visit Redux E-Commerce Platform deployed on [Render](https://redux-e-commerce-platform.onrender.com), and follow th steps below:
+
 1.  **Account Signup:** Users can create an account to access personalized features.
 2.  **Browse and View Products:** Explore products and categories effortlessly.
 3.  **Add/Remove Products to/from the Shopping Cart:** Manage your shopping cart with ease.
@@ -86,7 +88,7 @@ Please refer to the license in the repository for detailed information on the li
 
 ## Deployment
 
-The application is deployed on Render. You can access it via this [link](https://mern-book-search-engine-utjz.onrender.com/).
+The application is deployed on Render. You can access it via this [link](https://redux-e-commerce-platform.onrender.com).
 
 ## Repository
 
