@@ -1,1 +1,1 @@
-# Redux-E-Commerce-Platform
+# Redux E-Commerce Platform
